@@ -5,7 +5,7 @@
   "email": "maciej.kamela@wp.pl",
   "license": "MIT",
   "environment": {
-    "protractor": "4.0.9",
+    "protractor": "5.x.x",
     "node": "v6.x.x",
     "npm": "v3.x.x",
     "python": "v3.4.1"

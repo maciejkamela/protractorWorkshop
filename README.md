@@ -1,4 +1,4 @@
-# Automatic tests for cumulocity.
+# Automatic tests project configuration.
 
 ***
 # Description
@@ -29,7 +29,15 @@ as well as a basic understanding of Protractor and its locators, and also about 
 3. Install protractor globally
     
        npm install protractor -g 
-    
+       
+4. Install libraries from package.json
+
+       npm install
+       
+5. Start webdriver
+  
+        webdriver-manager start
+        
 ## Running tests locally
 
 First you need to start the selenium webdriver manager. Therefore just do
