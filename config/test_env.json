@@ -1,0 +1,8 @@
+{
+  "local": {
+    "baseUrl": "http://127.0.0.1:8082/"
+  },
+  "remote": {
+    "baseUrl": "http://protractor-workshop.netlify.com"
+  }
+}
