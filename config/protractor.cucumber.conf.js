@@ -11,7 +11,6 @@ exports.config = {
     browser.driver.manage().window().maximize();
     browser.manage().timeouts().pageLoadTimeout(40000);
     browser.manage().timeouts().implicitlyWait(25000);
-    // return browser.get('http://localhost:8080/#/users');
   },
   specs: ['../tests/features/*.feature'],
   capabilities: {
